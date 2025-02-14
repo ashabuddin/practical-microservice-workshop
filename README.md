@@ -16,5 +16,5 @@ cd docker keycloak-docker-compose && docker compose -f ./keycloak-docker-compose
 ## Run microservices dependency
 
 ```bash
-docker compose up
+docker-compose up
 ```
